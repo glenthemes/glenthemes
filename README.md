@@ -12,7 +12,7 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 👻 ⸺ [SVG HTML minifier](https://glenthemes.tumblr.com/svg-html-minifier)
 * 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
-* 🥁 ⸺ [プロセカ キズナ 効率 互換性チェッカー](//jsfiddle.net/glenthemes/1nfs7eLd/show)
+* 🥁 ⸺ [【プロセカ 】 キズナ 互換性 効率 チェッカー](//jsfiddle.net/glenthemes/1nfs7eLd/show)
 
 ### <sub>TOOLS:</sub>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
