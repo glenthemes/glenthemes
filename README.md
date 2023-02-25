@@ -13,7 +13,8 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
-* 🎁 ⸺ [wrapInner()](//gitlab.com/js-wrapinner/i)
+* 🎁 ⸺ [wrapInner&thinsp;❨&#x200A;❩](//gitlab.com/js-wrapinner/i)
+* 📮 ⸺ [popify&thinsp;❨&#x200A;❩](https://gitlab.com/popify/i)&ensp;for popups
 
 
 ### <sub>TOOLS:</sub>
