@@ -15,6 +15,7 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
 * 🎁 ⸺ [wrapInner&thinsp;❨&#x200A;❩](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&thinsp;❨&#x200A;❩](https://gitlab.com/popify/i)&ensp;for popups
+* 🔍 ⸺ [searchbar with custom search suggestions](https://gitthub.com/glenthemes/search-dropdown)
 
 
 ### <sub>TOOLS:</sub>
