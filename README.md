@@ -16,6 +16,7 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 🎁 ⸺ [wrapInner&thinsp;❨&#x200A;❩](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&thinsp;❨&#x200A;❩](https://gitlab.com/popify/i)&ensp;for popups
 * 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (beta)
+* 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)
 <!-- https://github.com/glenthemes/search-dropdown -->
 
 
