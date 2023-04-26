@@ -7,10 +7,8 @@ I'm HT! I'm a freelance web developer, and I make themes for personal blogs and 
 I've been primarily self-taught since 2015, and am currently pursuing a formal education in <b>Web & Mobile App Development</b> in Vancouver, Canada.  
 
 ### <sub>PROJECTS:</sub>
-* 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
 * 🍱 ⸺ [griddery](https://github.com/griddery/griddery.github.io#readme)
 * 👻 ⸺ [SVG HTML minifier](https://glenthemes.tumblr.com/svg-html-minifier)
-* 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
 * 🎁 ⸺ [wrapInner&thinsp;❨&#x200A;❩](//gitlab.com/js-wrapinner/i)
@@ -19,6 +17,9 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- https://github.com/glenthemes/search-dropdown -->
 * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q)
 
+### <sub>TUMBLR PROJECTS:</sub>
+* 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
+* 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
 
 ### <sub>TOOLS:</sub>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
