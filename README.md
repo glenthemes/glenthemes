@@ -18,6 +18,7 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 * 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (beta)
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)
 <!-- https://github.com/glenthemes/search-dropdown -->
+* 🎼 ⸺ [quick slider music player](https://gitlab.com/quick-music-player/q)
 
 
 ### <sub>TOOLS:</sub>
