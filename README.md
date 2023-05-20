@@ -30,19 +30,5 @@ I've been primarily self-taught since 2015, and am currently pursuing a formal e
 
 ### <sub>CURRENTLY LEARNING:</sub>
 
-<a href="https://react.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio" width="40" height="40"/>
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/>
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-</a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio" width="40" height="40"/></a> <a href="https://developer.apple.com/xcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/></a> <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
 
