@@ -2,7 +2,7 @@
 
 #### hey there! 👋
 
-I'm HT! I'm a freelance web developer, and I make themes for personal blogs and projects. My mission is to create unique websites for anyone to easily install and customize, regardless of their coding experience. I also have a [support server](https://discord.gg/RcMKnwz) where I resolve bug reports and cultivate a community for those interested in coding.  
+I'm HT! I'm a freelance web developer, and I make themes for personal blogs and projects. My mission is to create unique websites for anyone to easily install and customize, regardless of their coding experience. I also have a [support Discord](https://discord.gg/RcMKnwz) where I resolve bug reports and cultivate a community for those interested in coding.  
 
 I've been primarily self-taught since 2015, and am currently pursuing a formal education in <b>Web & Mobile App Development</b> in Vancouver, Canada.  
 
