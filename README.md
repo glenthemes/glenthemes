@@ -1,27 +1,32 @@
-![](https://64.media.tumblr.com/5e315e357bfd650a487c95d83734f5de/d84fbc232a75465a-10/s2048x3072/5d4e5acd66b2fb82569c6657659df862330689fa.png)
+![Glenthemes banner.](https://64.media.tumblr.com/5e315e357bfd650a487c95d83734f5de/d84fbc232a75465a-10/s2048x3072/5d4e5acd66b2fb82569c6657659df862330689fa.png)
 
-#### hey there! 👋
+#### hi there! 🤗
 
 I'm HT! I'm a freelance web developer, and I make themes for personal blogs and projects. My mission is to create unique websites for anyone to easily install and customize, regardless of their coding experience. I also have a [support Discord](https://discord.gg/RcMKnwz) where I resolve bug reports and cultivate a community for those interested in coding.  
 
-I've been primarily self-taught since 2015, and have recently completed a Post-Diploma in <b>Web & Mobile App Development</b> in Vancouver, Canada.
+I've been primarily self-taught since 2015, and recently acquired a Post-Diploma in <b>Web & Mobile App Development</b> in Vancouver, Canada. 🍁
 
 ### <sub>PROJECTS:</sub>
 * 🍱 ⸺ [griddery](https://github.com/griddery/griddery.github.io#readme)
 * 👻 ⸺ [SVG HTML minifier](https://glenthemes.tumblr.com/svg-html-minifier)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
-* 🎁 ⸺ [wrapInner&thinsp;❨&#x200A;❩](//gitlab.com/js-wrapinner/i)
-* 📮 ⸺ [popify&thinsp;❨&#x200A;❩](https://gitlab.com/popify/i)&ensp;for popups
-* 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (unreleased 🚧)
+* 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
+* 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups<!--* 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (unreleased 🚧)-->
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- https://github.com/glenthemes/search-dropdown --><!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
-* 🪴 ⸺ [fadeFiltering&thinsp;❨&#x200A;❩](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
-* 🌿 ⸺ [smartSticky&thinsp;❨&#x200A;❩](//gitlab.com/smart-sticky/i)&ensp; for short and tall sidebars
+* 🪴 ⸺ [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
+* 🌿 ⸺ [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i)&ensp; for short and tall sidebars
 
 ### <sub>TUMBLR PROJECTS:</sub>
 * 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
 * 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
 * 🎧 ⸺ [tumblr npf audio player](https://gitlab.com/tmblr-npf-audio/s/-/blob/main/README.md)
+
+### <sub>COLLEGE PROJECTS:</sub>
+* 🌍 ⸺ [WheelScout](//dub.sh/WheelScout)
+* 🌈 ⸺ [Colourfit](//dub.sh/colourfit)
+* 📈 ⸺ [RestaurantPro](//dub.sh/restaurantPro)
+* 🤝 ⸺ [Buddy](//dub.sh/buddy-2022)
 
 ### <sub>TOOLS:</sub>
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
