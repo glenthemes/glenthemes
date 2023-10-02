@@ -11,6 +11,7 @@ I've been primarily self-taught since 2015, and recently acquired a Post-Degree 
 * 👻 ⸺ [SVG HTML minifier](https://glenthemes.tumblr.com/svg-html-minifier)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
+* 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups<!--* 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (unreleased 🚧)-->
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- https://github.com/glenthemes/search-dropdown --><!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
