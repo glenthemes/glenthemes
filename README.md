@@ -18,6 +18,7 @@ I've been primarily self-taught since 2015, and recently acquired a Post-Degree 
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- https://github.com/glenthemes/search-dropdown --><!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
 * 🪴 ⸺ [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
 * 🌿 ⸺ [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i)&ensp; for short and tall sidebars
+* 🍱 ⸺ [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts)
 
 <sub>**TUMBLR PROJECTS:**</sub>
 * 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
