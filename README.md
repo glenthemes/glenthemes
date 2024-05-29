@@ -8,10 +8,10 @@ I've been primarily self-taught since 2015, and recently acquired a Post-Degree 
 
 <sub>**PROJECTS:**</sub>
 * 🍱 ⸺ [griddery](https://github.com/griddery/griddery.github.io#readme)
-* 👻 ⸺ [SVG HTML minifier](https://glenthemes.tumblr.com/svg-html-minifier)
-* 🔸 ⸺ [SVG to CSS `clip-path`](https://jsfiddle.net/glenthemes/u92jdb0L/show)
+* 👻 ⸺ [SVG HTML minifier](https://svg-html-minifier.gitlab.io/view)
+* 🔸 ⸺ [SVG to CSS `clip-path`](https://svg-css-clip-path.gitlab.io/view)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
-* 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//jsfiddle.net/glenthemes/1nfs7eLd/show)
+* 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//pjsk-kizuna-checker.gitlab.io/view)
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups<!--* 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (unreleased 🚧)-->
