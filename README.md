@@ -14,8 +14,9 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//pjsk-kizuna-checker.gitlab.io/view)
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
-* 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups<!--* 🔍 ⸺ [searchbar with custom search suggestions](https://gitlab.com/search-dropdown/i) (unreleased 🚧)-->
-* 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- https://github.com/glenthemes/search-dropdown --><!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
+* 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups
+* 🔍 ⸺ [searchbar with custom search suggestions](https://git.new/glen-searchbar)
+* 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
 * 🪴 ⸺ [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
 * 🌿 ⸺ [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i)&ensp; for short and tall sidebars
 * 🖋️ ⸺ [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts)
