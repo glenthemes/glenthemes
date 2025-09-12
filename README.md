@@ -2,7 +2,7 @@
 
 **hi there! 🤗**
 
-I'm HT! I'm a freelance web developer, and I make themes for personal blogs and projects. My mission is to create unique websites for anyone to easily install and customize, regardless of their coding experience. I also have a [support Discord](https://discord.gg/RcMKnwz) where I resolve bug reports and cultivate a community for those interested in coding. Primarily self-taught since 2015, recently acquired a Post-Degree Diploma in <b>Web & Mobile App Development</b> in Canada 🍁
+I'm HT! I'm a freelance web developer, and I make themes for personal blogs and projects. My mission is to create unique websites for anyone to easily install and customize, regardless of their coding experience. I also have a [support Discord](https://discord.gg/RcMKnwz) where I resolve bug reports and cultivate a community for those interested in coding. Primarily self-taught since 2015 until acquiring a Post-Degree Diploma in <b>Web & Mobile App Development</b> in 2025 🍁
 
 P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 
@@ -15,6 +15,7 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups
+* ✨ ⸺ [CSS popups]([https://github.com/ht-devx/addGoogleFonts](https://github.com/glenthemes/css-popups))&ensp;(no JavaScript)
 * 🔍 ⸺ [searchbar with custom search suggestions](https://git.new/glen-searchbar)
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
 * 🪴 ⸺ [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
