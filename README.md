@@ -9,7 +9,7 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 <sub>**PROJECTS:**</sub>
 * 🍱 ⸺ [griddery](https://github.com/griddery/griddery.github.io#readme)
 * 👻 ⸺ [SVG HTML minifier](https://svg-html-minifier.gitlab.io/view)
-* 🔸 ⸺ [SVG to CSS `clip-path`](https://svg-css-clip-path.gitlab.io/view)
+* 🔸 ⸺ [SVG to CSS `mask`](https://svg-css-mask.gitlab.io/view)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
 * 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//pjsk-kizuna-checker.gitlab.io/view)
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
