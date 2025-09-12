@@ -15,7 +15,7 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups
-* ✨ ⸺ [CSS popups]([https://github.com/ht-devx/addGoogleFonts](https://github.com/glenthemes/css-popups))&ensp;(no JavaScript)
+* ✨ ⸺ [CSS popups](https://github.com/glenthemes/css-popups)&ensp;(no JavaScript)
 * 🔍 ⸺ [searchbar with custom search suggestions](https://git.new/glen-searchbar)
 * 🔁 ⸺ [non-SVG circular progress graphs](https://gitlab.com/circle-graph/s)<!-- * 🎼 ⸺ [quick music player with slider](https://gitlab.com/quick-music-player/q) (in progress 🚧) -->
 * 🪴 ⸺ [fadeFiltering&hairsp;(&hairsp;)](//gitlab.com/fade-filtering/s)&ensp; filtering plugin with fade transition
