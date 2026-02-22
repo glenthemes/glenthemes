@@ -25,7 +25,7 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 
 <sub>**TUMBLR PROJECTS:**</sub>
 * 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
-* 📸 ⸺ [tumblr npf photoset fix](https://github.com/npf-images-v3/npf-images-v3.github.io/blob/main/WELCOME.md)
+* 📸 ⸺ [tumblr npf images fix](https://github.com/glenthemes/npf-images-v4)
 * 🎧 ⸺ [tumblr npf audio player](https://gitlab.com/tmblr-npf-audio/s/-/blob/main/README.md)
 
 <sub>**COLLEGE PROJECTS:**</sub>
