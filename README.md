@@ -11,7 +11,6 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 👻 ⸺ [SVG HTML minifier](https://svg-html-minifier.gitlab.io/view)
 * 🔸 ⸺ [SVG to CSS `mask`](https://svg-css-mask.gitlab.io/view)
 * 🎧 ⸺ [music players](//glenthemes.tumblr.com/tagged/my-music-player)
-* 🥁 ⸺[【プロセカ 】 キズナ ⁄ trust ⁄ affinity checker](//pjsk-kizuna-checker.gitlab.io/view)
 * 🫣 ⸺ [spoilerTags&hairsp;(&hairsp;)](//github.com/glenthemes/spoilerTags#readme)
 * 🎁 ⸺ [wrapInner&hairsp;(&hairsp;)](//gitlab.com/js-wrapinner/i)
 * 📮 ⸺ [popify&hairsp;(&hairsp;)](https://gitlab.com/popify/i)&ensp;for popups
@@ -22,6 +21,7 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 🌿 ⸺ [smartSticky&hairsp;(&hairsp;)](//gitlab.com/smart-sticky/i)&ensp; for short and tall sidebars
 * 🖋️ ⸺ [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts)
 * 🦛 ⸺ [WordHippo Lite](https://github.com/glenthemes/wordhippo-lite)&emsp13;&mdash;&emsp13;a minimal version of [wordhippo.com](https://wordhippo.com) that offers definitions, synonyms, antonyms, and example sentences of requested words
+* 🎲 ⸺ [Random item(s) picker](//random-items-picker.pages.dev)&emsp13;&mdash;&emsp13;paste/type a plain text list and input the number of items you want to be randomly chosen
 
 <sub>**TUMBLR PROJECTS:**</sub>
 * 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
