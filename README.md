@@ -22,6 +22,8 @@ P.S. you can also find me at [@ht-devx](https://github.com/ht-devx)!
 * 🖋️ ⸺ [addGoogleFonts&hairsp;(&hairsp;)](https://github.com/ht-devx/addGoogleFonts)
 * 🦛 ⸺ [WordHippo Lite](https://github.com/glenthemes/wordhippo-lite)&emsp13;&mdash;&emsp13;a minimal version of [wordhippo.com](https://wordhippo.com) that offers definitions, synonyms, antonyms, and example sentences of requested words
 * 🎲 ⸺ [Random item(s) picker](//random-items-picker.pages.dev)&emsp13;&mdash;&emsp13;paste/type a plain text list and input the number of items you want to be randomly chosen
+* 🎵 ⸺ [onlyrics.page](//onlyrics.page)&emsp13;&mdash;&emsp13;no-bullsh*t Genius lyrics viewer
+
 
 <sub>**TUMBLR PROJECTS:**</sub>
 * 🥃 ⸺ [tumblr themes | about pages | multi-character pages ...more](//glenthemes.tumblr.com/portfolio)
